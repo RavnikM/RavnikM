@@ -13,3 +13,5 @@ I work most of my time on:
 
 My other iterest are PLCs, office automation and electronics.
 
+You can reach me on an email
+markoravnik@gmail.com
