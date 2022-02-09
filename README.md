@@ -1,13 +1,13 @@
 Hello there,
 
-I am 👨‍💻specialist for operational technologies for manufactoring system.
+I am specialist for operational technologies for manufactoring system.
 Connecting fields of IT and manufactoring equipment(PLC/SCADA).
 
 I have 10 years of experiences in fields of
 
-- Development of software for laboratory/manufactoring measurements and testing 🧪
-- Development of information systems for industrial maschinery 🤖
-- Collection of data on factory floor and analysis of that data with BI systems 📉
+- Development of software for laboratory/manufactoring measurements and testing
+- Development of information systems for industrial maschinery
+- Collection of data on factory floor and analysis of that data with BI systems
 
 My other iterest are PLCs, office automation and electronics.
 
