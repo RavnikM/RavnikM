@@ -5,7 +5,7 @@ Connecting fields of IT and manufactoring equipment(PLC/SCADA).
 
 I have experience in fields of
 - Development of software for laboratory/manufactoring measurements and testing
-- Development of information systems for industrial maschinery
+- Development of information systems for industrial setting
 - Collection of data on factory floor and analysis of that data with BI systems
 
 My other iterest are PLCs, office automation and electronics.
